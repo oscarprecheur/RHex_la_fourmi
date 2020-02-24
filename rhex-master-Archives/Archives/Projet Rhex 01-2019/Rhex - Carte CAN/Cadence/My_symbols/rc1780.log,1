@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : rc1780.dra                                    )
+(    Software Version : 16.6-2015S055                                 )
+(    Date/Time        : Thu Mar 03 08:30:30 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = rc1780.psm
+    User      = laurent
+    Machine   = WALTERWHITE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

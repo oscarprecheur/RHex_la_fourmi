@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : dipswitch_06.dra                              )
+(    Software Version : 16.6-2015S055                                 )
+(    Date/Time        : Thu Sep 03 13:37:40 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = dipswitch_06.psm
+    User      = laurent
+    Machine   = WALTERWHITE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

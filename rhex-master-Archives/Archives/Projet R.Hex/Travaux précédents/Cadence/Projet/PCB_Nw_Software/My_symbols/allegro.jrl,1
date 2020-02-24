@@ -1,0 +1,25 @@
+\t (00:00:08) allegro 17.2 S014 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Fri Jun 16 10:10:35 2017
+\t (00:00:08)         Host=RDS1 User=paul.moulins Pid=11044 CPUs=8
+\t (00:00:08) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe M:\Paul MOULINS\STAGE\Cadence\PCB_Nw_Software\My_symbols\cap_01.dra
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\i (00:00:10) fillin no 
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 670
+\i (00:00:10) trapsize 685
+\i (00:00:10) trapsize 1133
+\i (00:00:10) generaledit 
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 17068.0 10086.7
+\i (00:00:13) trapsize 1133
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 17068.0 10086.7
+\i (00:00:13) trapsize 1133
+\i (00:00:15) exit 
+\e (00:00:15) Do you want to save the changes you made to unnamed?
+\i (00:00:17) fillin no 
+\t (00:00:18)     Journal end - Fri Jun 16 10:10:44 2017

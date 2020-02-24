@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : RN42XVP.dra                                   )
+(    Software Version : 16.6S036                                      )
+(    Date/Time        : Tue Feb 03 18:07:21 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = rn42xvp.psm
+    User      = Laurent
+    Machine   = PCLATORRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

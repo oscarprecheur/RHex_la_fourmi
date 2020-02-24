@@ -1,0 +1,102 @@
+\t (00:00:13) allegro 17.2 S014 Windows SPB 64-bit Edition
+\t (00:00:13)     Journal start - Tue Jul 25 19:01:01 2017
+\t (00:00:13)         Host=RDS1 User=albin.guipaud Pid=3308 CPUs=8
+\t (00:00:13) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe M:\Paul MOULINS\STAGE\Cadence\PCB_Nw_Software\PCB\CarteV4.brd
+\t (00:00:13) 
+   (00:00:13) Loading axlcore.cxt 
+\t (00:00:15) Opening existing design...
+\d (00:00:15) Design opened: M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/PCB/CarteV4.brd
+\i (00:00:15) trapsize 2215
+\i (00:00:15) trapsize 2265
+\i (00:00:15) trapsize 3598
+\i (00:00:16) generaledit 
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 13.3284 3.8925
+\i (00:00:20) trapsize 1799
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 13.1844 3.9285
+\i (00:00:20) trapsize 900
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 13.1844 3.9825
+\i (00:00:20) trapsize 450
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 13.4632 5.0530
+\i (00:00:21) trapsize 900
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 13.4633 4.9631
+\i (00:00:21) trapsize 1799
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 13.4273 4.9631
+\i (00:00:22) trapsize 3598
+\i (00:00:24) roam start
+\i (00:00:24) roam x 32
+\i (00:00:24) roam y -160
+\i (00:00:24) roam x 64
+\i (00:00:24) roam y -352
+\i (00:00:24) roam x 160
+\i (00:00:24) roam y -624
+\i (00:00:24) roam x 224
+\i (00:00:24) roam y -816
+\i (00:00:24) roam x 16
+\i (00:00:24) roam y -96
+\i (00:00:24) roam end
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 35.2216 140.0585
+\i (00:00:25) trapsize 7197
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 35.2215 140.0584
+\t (00:00:25) Grids are drawn 1.2700, 1.2700 apart for enhanced viewability.
+\i (00:00:25) trapsize 14394
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 18.4249 114.6447
+\i (00:00:27) trapsize 7197
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 43.4699 119.3946
+\i (00:00:28) trapsize 3598
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 44.7654 116.5879
+\i (00:00:29) trapsize 1799
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 44.1536 114.8607
+\i (00:00:31) trapsize 3598
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 46.8885 109.5351
+\i (00:00:32) trapsize 7197
+\i (00:00:33) roam start
+\i (00:00:33) roam x -64
+\i (00:00:33) roam y 112
+\i (00:00:33) roam x -80
+\i (00:00:33) roam y 112
+\i (00:00:34) roam y 16
+\i (00:00:34) roam end
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 43.4979 85.7225
+\i (00:00:35) trapsize 3598
+\i (00:00:36) roam start
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y -80
+\i (00:00:36) roam y -32
+\i (00:00:36) roam y -80
+\i (00:00:36) roam y -16
+\i (00:00:37) roam y 48
+\i (00:00:37) roam x 16
+\i (00:00:37) roam y 16
+\i (00:00:38) roam x -32
+\i (00:00:39) roam x -16
+\i (00:00:39) roam end
+\i (00:01:15) exit 
+\t (00:01:15)     Journal end - Tue Jul 25 19:02:02 2017

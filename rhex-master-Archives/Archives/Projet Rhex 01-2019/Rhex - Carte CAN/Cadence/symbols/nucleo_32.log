@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : nucleo_32.dra                                 )
+(    Software Version : 16.6-2015S055                                 )
+(    Date/Time        : Mon May 02 19:24:30 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = nucleo_32.psm
+    User      = laurent
+    Machine   = WALTERWHITE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

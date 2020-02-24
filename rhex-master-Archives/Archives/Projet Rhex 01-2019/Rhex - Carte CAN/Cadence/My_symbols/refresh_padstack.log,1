@@ -1,0 +1,46 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : tantalum_cases.dra                            )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Sat Sep 09 12:06:50 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Sep 09 12:06:50 2017				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'D:/Users/Laurent/Documents/Cadence/lib/pcb/symbols/tantalum_cases.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  D:/Users/Laurent/Documents/Cadence/lib/pcb/symbols/ 
+
+PADPATH =  D:/Users/Laurent/Documents/Cadence/lib/pcb/pads/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'TANTALUM_D_E'  pad stack refresh starting.
+
+     'TANTALUM_D_E'  pad stack refreshed successfully.
+     
+'TANTALUM_C_F'  pad stack refresh starting.
+
+     'TANTALUM_C_F'  pad stack refreshed successfully.
+     
+'TANTALUM_B'  pad stack refresh starting.
+
+     'TANTALUM_B'  pad stack refreshed successfully.
+     
+'TANTALUM_A'  pad stack refresh starting.
+
+     'TANTALUM_A'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

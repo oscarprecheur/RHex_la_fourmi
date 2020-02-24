@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Nucleo_144_shield.dra                         )
+(    Software Version : 16.6-2015S055                                 )
+(    Date/Time        : Tue May 31 15:10:53 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = nucleo_144_shield.psm
+    User      = laurent
+    Machine   = WALTERWHITE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

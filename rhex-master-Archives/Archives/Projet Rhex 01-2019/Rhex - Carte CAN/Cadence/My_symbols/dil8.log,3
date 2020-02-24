@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : dil8.dra                                      )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Mon Dec 26 22:58:55 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = //buis.isim.intra/publicetud$/PoMAD/lib/pcb/symbols
+    Name      = dil8.psm
+    User      = latorre
+    Machine   = RDSENS3
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : polytech_10mm_filled.dra                      )
+(    Software Version : 16.6-2015S055                                 )
+(    Date/Time        : Thu Aug 27 11:40:54 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = D:/Users/laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = polytech_10mm_filled.bsm
+    User      = laurent
+    Machine   = WALTERWHITE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

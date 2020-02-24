@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : switch_01.dra                                 )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Tue Apr 24 11:08:57 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = //buis.isim.intra/publicetud$/PoMAD/lib/pcb/symbols
+    Name      = switch_01.psm
+    User      = latorre
+    Machine   = RDSENS3
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

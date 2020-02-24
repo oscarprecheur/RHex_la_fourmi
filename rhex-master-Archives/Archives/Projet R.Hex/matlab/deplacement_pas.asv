@@ -1,0 +1,136 @@
+function [] = deplacement_pas (Patte, Pd, Pa, decalage_vertical)
+
+% Distance du robot
+l1 = Patte.long.coxa;
+l2 = Patte.long.femur;
+l3 = Patte.long.tibia;
+
+H = Pd;
+
+T=[cos(-pi/2), -sin(-pi/2), 0, 0;
+    sin(-pi/2), cos(-pi/2), 0, 0;
+    0,             0,       1, 0;
+    0,             0,       0, 1];
+
+j1 = (H(3):0.05:H(3) + decalage_vertical);
+j2 = (0:0.005:pi);
+j3 = (H(3):0.05:H(3) - decalage_vertical);
+
+Total = size(j1) + size(j2) + size(j3);
+
+Theta = zeros(Total, 3);
+k = 1;
+for j= H(3):0.05:H(3) + decalage_vertical
+    
+    H(3) = j;
+    
+    X = T * [H 1]';
+    
+    
+    % Calcul de l'angle
+    Theta1 = atan2(X(2), X(1));
+    Xvar = sqrt((X(1)-l1*cos(Theta1))^2 + (X(2)-l1*sin(Theta1))^2);
+    Yvar = X(3);
+    Theta3haut = acos((Xvar*Xvar+Yvar*Yvar-l2*l2-l3*l3)/(2*l2*l3));
+    Theta3bas = -acos((Xvar*Xvar+Yvar*Yvar-l2*l2-l3*l3)/(2*l2*l3));
+    Theta2haut = atan2((Yvar*(l2+l3*cos(Theta3haut))-Xvar*l3*sin(Theta3haut)),(Xvar*(l2+l3*cos(Theta3haut))+Yvar*l3*sin(Theta3haut)));
+    Theta2bas = atan2((Yvar*(l2+l3*cos(Theta3bas))-Xvar*l3*sin(Theta3bas)),(Xvar*(l2+l3*cos(Theta3bas))+Yvar*l3*sin(Theta3bas)));
+    
+    angle_D(1) = Theta1;
+    angle_D(2) = 0;
+    angle_D(3) = Theta2bas;
+    angle_D(4) = Theta3bas;
+    
+    Theta(:, k) = Angle_D(1:4);
+    
+    
+    %% Tracé de la patte bougée
+    Patte = bougePatte(Patte, angle_D);
+    Patte_dessine(Patte); % Dessine la patte "dans son etat actuel", ici l'etat final
+    %%trace_rep(Patte); % Trace les reperes
+    plot3(H(1),H(2),H(3), 'o');
+    
+    
+    drawnow
+
+    
+    
+end
+
+Pa(3) = H(3);
+R = (sqrt((H(1)-Pa(1))^2+ (H(3)-Pa(3))^2))/2; 
+b = (Pa(3) + H(3)) / 2;
+a = (H(1) + Pa(1)) / 2 ;
+
+for j= 0:0.005:pi
+    
+    H(1) = a + R*cos(j);
+    H(3) = b + R/2*sin(j);
+    
+    X = T * [H 1]';
+    
+    
+    % Calcul de l'angle
+    Theta1 = atan2(X(2), X(1));
+    Xvar = sqrt((X(1)-l1*cos(Theta1))^2 + (X(2)-l1*sin(Theta1))^2);
+    Yvar = X(3);
+    Theta3haut = acos((Xvar*Xvar+Yvar*Yvar-l2*l2-l3*l3)/(2*l2*l3));
+    Theta3bas = -acos((Xvar*Xvar+Yvar*Yvar-l2*l2-l3*l3)/(2*l2*l3));
+    Theta2haut = atan2((Yvar*(l2+l3*cos(Theta3haut))-Xvar*l3*sin(Theta3haut)),(Xvar*(l2+l3*cos(Theta3haut))+Yvar*l3*sin(Theta3haut)));
+    Theta2bas = atan2((Yvar*(l2+l3*cos(Theta3bas))-Xvar*l3*sin(Theta3bas)),(Xvar*(l2+l3*cos(Theta3bas))+Yvar*l3*sin(Theta3bas)));
+    
+    angle_D(1) = Theta1;
+    angle_D(2) = 0;
+    angle_D(3) = Theta2bas;
+    angle_D(4) = Theta3bas;
+    
+    
+    
+    %% Tracé de la patte bougée
+    Patte = bougePatte(Patte, angle_D);
+    Patte_dessine(Patte); % Dessine la patte "dans son etat actuel", ici l'etat final
+    %%trace_rep(Patte); % Trace les reperes
+    plot3(H(1),H(2),H(3), 'o');
+    
+    
+    drawnow
+
+    
+    
+end
+
+for j= H(3):-0.05:H(3) - decalage_vertical
+    
+    H(3) = j;
+    
+    X = T * [H 1]';
+    
+    
+    % Calcul de l'angle
+    Theta1 = atan2(X(2), X(1));
+    Xvar = sqrt((X(1)-l1*cos(Theta1))^2 + (X(2)-l1*sin(Theta1))^2);
+    Yvar = X(3);
+    Theta3haut = acos((Xvar*Xvar+Yvar*Yvar-l2*l2-l3*l3)/(2*l2*l3));
+    Theta3bas = -acos((Xvar*Xvar+Yvar*Yvar-l2*l2-l3*l3)/(2*l2*l3));
+    Theta2haut = atan2((Yvar*(l2+l3*cos(Theta3haut))-Xvar*l3*sin(Theta3haut)),(Xvar*(l2+l3*cos(Theta3haut))+Yvar*l3*sin(Theta3haut)));
+    Theta2bas = atan2((Yvar*(l2+l3*cos(Theta3bas))-Xvar*l3*sin(Theta3bas)),(Xvar*(l2+l3*cos(Theta3bas))+Yvar*l3*sin(Theta3bas)));
+    
+    angle_D(1) = Theta1;
+    angle_D(2) = 0;
+    angle_D(3) = Theta2bas;
+    angle_D(4) = Theta3bas;
+    
+    
+    
+    %% Tracé de la patte bougée
+    Patte = bougePatte(Patte, angle_D);
+    Patte_dessine(Patte); % Dessine la patte "dans son etat actuel", ici l'etat final
+    %%trace_rep(Patte); % Trace les reperes
+    plot3(H(1),H(2),H(3), 'o');
+    
+    
+    drawnow
+
+    
+    
+end

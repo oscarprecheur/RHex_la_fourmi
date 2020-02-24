@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : STM32_nucleo.dra                              )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Sun May 21 23:00:11 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = stm32_nucleo.psm
+    User      = Laurent
+    Machine   = WALTERWHITE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

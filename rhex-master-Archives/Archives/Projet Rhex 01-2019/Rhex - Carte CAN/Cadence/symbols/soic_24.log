@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : soic_24.dra                                   )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Thu Mar 15 09:50:06 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = //buis.isim.intra/publicetud$/PoMAD/lib/pcb/symbols
+    Name      = soic_24.psm
+    User      = latorre
+    Machine   = RDSENS3
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : mounting_hole.dra                             )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Wed Jun 13 23:23:34 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = D:/Users/Latorre/Documents/Cadence/PoMAD/lib/pcb/symbols
+    Name      = mounting_hole.bsm
+    User      = Latorre
+    Machine   = PCLATORRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

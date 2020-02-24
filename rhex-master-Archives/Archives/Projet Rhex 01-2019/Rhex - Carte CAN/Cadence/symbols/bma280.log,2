@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : bma280.dra                                    )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Fri Jul 14 17:16:15 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = bma280.psm
+    User      = Laurent
+    Machine   = WALTERWHITE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

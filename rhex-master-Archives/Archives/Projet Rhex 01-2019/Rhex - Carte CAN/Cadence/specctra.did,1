@@ -1,0 +1,22 @@
+# Cadence Design Systems, Inc.
+# Allegro PCB Router Automatic Router
+# Allegro PCB Router v17-2-50 made 2017/01/16 at 14:16:53
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Initialization options:
+#   -do pasde.do
+# Status File Name : M:/RHEX le chat/Projet Carte\monitor.sts
+# Use Colormap In Design File.
+#
+#
+#
+#
+# do $/heapode_carte_V2_rules.do
+# do M:/RHEX le chat/Projet Carte/heapode_carte_V2_custom_route.do
+defkey (q ) (write session M:/RHEX le chat/Projet Carte/heapode_carte_V2.ses;quit)
+quit)
+write colormap _notify.std
+quit -c

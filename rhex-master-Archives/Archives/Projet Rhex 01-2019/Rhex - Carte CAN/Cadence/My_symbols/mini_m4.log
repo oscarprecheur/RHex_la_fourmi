@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : mini_M4.dra                                   )
+(    Software Version : 16.6S036                                      )
+(    Date/Time        : Sat Mar 21 12:37:12 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = mini_m4.psm
+    User      = Laurent
+    Machine   = PCLATORRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

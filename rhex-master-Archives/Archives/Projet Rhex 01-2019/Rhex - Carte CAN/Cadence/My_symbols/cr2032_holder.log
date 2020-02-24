@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CR2032_holder.dra                             )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Wed Jul 18 15:57:11 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = cr2032_holder.psm
+    User      = Laurent
+    Machine   = DESKTOP-TFL7P8M
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

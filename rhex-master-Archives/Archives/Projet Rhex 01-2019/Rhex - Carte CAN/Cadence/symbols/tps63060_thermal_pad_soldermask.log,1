@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tps63060_thermal_pad_soldermask.dra           )
+(    Software Version : 16.6-2015S055                                 )
+(    Date/Time        : Wed Mar 09 09:52:50 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = D:/Users/laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = tps63060_thermal_pad_soldermask.ssm
+    User      = laurent
+    Machine   = WALTERWHITE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

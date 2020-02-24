@@ -1,0 +1,14 @@
+core_cm4.h:1626:22:NVIC_EnableIRQ	16	static
+core_cm4.h:1698:22:NVIC_SetPriority	16	static
+bsp.c:16:6:BSP_LED_Init	4	static
+bsp.c:44:6:BSP_LED_On	16	static
+bsp.c:73:6:BSP_LED_Off	16	static
+bsp.c:102:6:BSP_LED_Toggle	16	static
+bsp.c:131:6:BSP_NVIC_Init	8	static
+bsp.c:146:6:BSP_PB_Init	4	static
+bsp.c:179:9:BSP_PB_GetState	16	static
+bsp.c:203:6:BSP_Console_Init	4	static
+bsp.c:258:6:BSP_GPIO_Init	4	static
+bsp.c:406:6:BSP_PWM_Init	4	static
+bsp.c:467:6:BSP_CAN1_Init	4	static
+bsp.c:498:6:BSP_CAN2_Init	4	static

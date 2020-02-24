@@ -1,0 +1,18 @@
+\t (00:00:04) allegro 17.2 S014 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Oct 24 01:47:53 2018
+\t (00:00:04)         Host=RDS1 User=matthieu.bouree Pid=7236 CPUs=8
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: M:/RHEX le chat/Projet Carte/heapode_carte_V2.brd
+\i (00:00:06) trapsize 364
+\i (00:00:06) trapsize 372
+\i (00:00:06) trapsize 446
+\i (00:00:07) generaledit 
+\i (00:00:11) open 
+\i (00:00:41) fillin "M:\RHEX le chat\Projet Carte\Carte 17.10.18\CarteBRUnrouted.brd"
+\i (00:00:41) cd "M:\RHEX le chat\Projet Carte\Carte 17.10.18"
+\t (00:00:41) Opening existing design...
+\i (00:00:41) trapsize 1405
+\t (00:00:41)     Journal end - Wed Oct 24 01:48:30 2018

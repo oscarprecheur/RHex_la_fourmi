@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : cap_elec_cms_50.dra                           )
+(    Software Version : 16.6-2015S055                                 )
+(    Date/Time        : Fri Jun 03 19:06:36 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = cap_elec_cms_50.psm
+    User      = laurent
+    Machine   = WALTERWHITE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

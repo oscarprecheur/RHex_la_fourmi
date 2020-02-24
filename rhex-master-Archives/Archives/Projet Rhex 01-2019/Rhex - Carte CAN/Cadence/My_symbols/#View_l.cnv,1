@@ -1,0 +1,11 @@
+# This is an auto-generated Layer Conversion File which should be used for
+# importing DXF layer data with the sole aim of viewing the data on a layer
+# by layer basis.
+
+#CLASS!         SUBCLASS!                  DXF_LAYER!
+
+BOARD GEOMETRY!
+               0!                  0!
+               1!                  06_MEA!
+
+#END

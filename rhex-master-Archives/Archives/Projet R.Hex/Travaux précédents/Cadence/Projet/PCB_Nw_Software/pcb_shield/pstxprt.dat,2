@@ -1,0 +1,110 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001May-18-2017 at 16:47:22 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SHIELD_STM32F429';
+ POST_TIME='Jun  8 2015 17:42:25';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'HEADER 5_CON_05_HEADER 5':;
+
+SECTION_NUMBER 1
+ '@SHIELD_STM32F429.SCHEMATIC1(SCH_1):INS18364@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@shield_stm32f429.schematic1(sch_1):ins18364@connector.\header 5.normal\(chips)',
+ P_PATH='@shield_stm32f429.schematic1(sch_1):page1_ins18364@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 5_CON_05_HEADER 5':;
+
+SECTION_NUMBER 1
+ '@SHIELD_STM32F429.SCHEMATIC1(SCH_1):INS18416@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@shield_stm32f429.schematic1(sch_1):ins18416@connector.\header 5.normal\(chips)',
+ P_PATH='@shield_stm32f429.schematic1(sch_1):page1_ins18416@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 5_CON_05_HEADER 5':;
+
+SECTION_NUMBER 1
+ '@SHIELD_STM32F429.SCHEMATIC1(SCH_1):INS19959@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@shield_stm32f429.schematic1(sch_1):ins19959@connector.\header 5.normal\(chips)',
+ P_PATH='@shield_stm32f429.schematic1(sch_1):page1_ins19959@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER 5_CON_05_HEADER 5':;
+
+SECTION_NUMBER 1
+ '@SHIELD_STM32F429.SCHEMATIC1(SCH_1):INS18476@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@shield_stm32f429.schematic1(sch_1):ins18476@connector.\header 5.normal\(chips)',
+ P_PATH='@shield_stm32f429.schematic1(sch_1):page1_ins18476@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 5_CON_05_HEADER 5':;
+
+SECTION_NUMBER 1
+ '@SHIELD_STM32F429.SCHEMATIC1(SCH_1):INS23150@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@shield_stm32f429.schematic1(sch_1):ins23150@connector.\header 5.normal\(chips)',
+ P_PATH='@shield_stm32f429.schematic1(sch_1):page1_ins23150@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_01_120':;
+
+SECTION_NUMBER 1
+ '@SHIELD_STM32F429.SCHEMATIC1(SCH_1):INS19919@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@shield_stm32f429.schematic1(sch_1):ins19919@analog.\r.normal\(chips)',
+ P_PATH='@shield_stm32f429.schematic1(sch_1):page1_ins19919@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES_01_120':;
+
+SECTION_NUMBER 1
+ '@SHIELD_STM32F429.SCHEMATIC1(SCH_1):INS19895@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@shield_stm32f429.schematic1(sch_1):ins19895@analog.\r.normal\(chips)',
+ P_PATH='@shield_stm32f429.schematic1(sch_1):page1_ins19895@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'SN69HVD232D_SN65HVD232D_SN69HVD':;
+
+SECTION_NUMBER 1
+ '@SHIELD_STM32F429.SCHEMATIC1(SCH_1):INS22330@SHIELD_STM32F429_LIB.SN69HVD232D.NORMAL(CHIPS)':
+ C_PATH='@shield_stm32f429.schematic1(sch_1):ins22330@shield_stm32f429_lib.\sn69hvd232d.normal\(chips)',
+ P_PATH='@shield_stm32f429.schematic1(sch_1):page1_ins22330@shield_stm32f429_lib.\sn69hvd232d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'SN69HVD232D_SN65HVD232D_SN69HVD':;
+
+SECTION_NUMBER 1
+ '@SHIELD_STM32F429.SCHEMATIC1(SCH_1):INS22409@SHIELD_STM32F429_LIB.SN69HVD232D.NORMAL(CHIPS)':
+ C_PATH='@shield_stm32f429.schematic1(sch_1):ins22409@shield_stm32f429_lib.\sn69hvd232d.normal\(chips)',
+ P_PATH='@shield_stm32f429.schematic1(sch_1):page1_ins22409@shield_stm32f429_lib.\sn69hvd232d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'NUCLEO_144_SHIELD_NUCLEO_144_SH':;
+
+SECTION_NUMBER 1
+ '@SHIELD_STM32F429.SCHEMATIC1(SCH_1):INS24616@SHIELD_STM32F429_LIB.NUCLEO_144_SHIELD.NORMAL(CHIPS)':
+ C_PATH='@shield_stm32f429.schematic1(sch_1):ins24616@shield_stm32f429_lib.\nucleo_144_shield.normal\(chips)',
+ P_PATH='@shield_stm32f429.schematic1(sch_1):page1_ins24616@shield_stm32f429_lib.\nucleo_144_shield.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

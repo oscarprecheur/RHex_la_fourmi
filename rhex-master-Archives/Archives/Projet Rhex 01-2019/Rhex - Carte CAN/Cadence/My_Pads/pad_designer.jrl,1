@@ -1,0 +1,32 @@
+\t (00:00:00) pad_designer 16.6-2015 S051 (v16-6-112DY) Windows 32
+\t (00:00:00)     Journal start - Mon Oct 10 14:16:34 2016
+\t (00:00:00)         Host=WALTERWHITE User=laurent Pid=6580 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) FORM padedit layers  
+\i (00:00:16) FORM padedit parameters  
+\i (00:00:18) FORM padedit layers  
+\i (00:00:19) FORM padedit single NO 
+\i (00:00:22) FORM padedit parameters  
+\i (00:00:23) FORM padedit layers  
+\i (00:00:25) FORM padedit parameters  
+\i (00:00:32) FORM padedit hole_size_x 1.0000 
+\i (00:00:35) FORM padedit layers  
+\i (00:00:36) FORM padedit grid row begin_layer 
+\i (00:00:39) FORM padedit geometry Circle 
+\i (00:00:42) FORM padedit grid row end_layer 
+\i (00:00:44) FORM padedit geometry Circle 
+\i (00:00:49) FORM padedit grid row soldermask_top 
+\i (00:00:53) FORM padedit geometry Null 
+\i (00:00:53) FORM padedit grid row default_internal 
+\i (00:00:58) FORM padedit geometry Square 
+\i (00:01:07) FORM padedit geometry Null 
+\i (00:01:09) pse_open 
+\i (00:01:12) fillin "hole_08_default.pad"
+\i (00:01:14) fillin yes 
+\i (00:06:27) FORM padedit grid row begin_layer 
+\i (00:06:33) FORM padedit flashbutton_th  
+\i (00:06:35) fillin "menu_cancel"
+\i (01:20:44) pse_exit
+\t (01:20:44)     Journal end - Mon Oct 10 15:37:18 2016

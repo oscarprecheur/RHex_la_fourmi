@@ -1,0 +1,3 @@
+encodeur.c:15:6:mode_Pre_Operationnel	32	static
+encodeur.c:31:6:mode_Operationnel	40	static
+encodeur.c:49:6:ConfigEncodeur	16	static

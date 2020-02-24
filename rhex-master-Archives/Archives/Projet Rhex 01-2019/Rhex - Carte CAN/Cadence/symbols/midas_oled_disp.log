@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : midas_oled_disp.dra                           )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Tue Jul 10 09:11:40 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = midas_oled_disp.bsm
+    User      = Laurent
+    Machine   = DESKTOP-TFL7P8M
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

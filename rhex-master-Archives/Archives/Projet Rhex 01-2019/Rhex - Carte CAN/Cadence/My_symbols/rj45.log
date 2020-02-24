@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : RJ45.dra                                      )
+(    Software Version : 17.2S014                                      )
+(    Date/Time        : Tue Jun 13 13:59:01 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = M:/Paul MOULINS/STAGE/Cadence/My_symbols
+    Name      = rj45.psm
+    User      = paul.moulins
+    Machine   = RDS1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

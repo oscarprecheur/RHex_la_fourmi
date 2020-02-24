@@ -1,0 +1,32 @@
+\t (00:00:00) pad_designer 16.6-2015 S051 (v16-6-112DY) Windows 32
+\t (00:00:00)     Journal start - Thu Oct 20 10:44:26 2016
+\t (00:00:00)         Host=WALTERWHITE User=laurent Pid=8012 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) pse_open 
+\i (00:00:10) fillin "smd4_7.pad"
+\i (00:00:12) FORM padedit layers  
+\i (00:00:17) FORM padedit grid row begin_layer 
+\i (00:00:21) FORM padedit grid row soldermask_top 
+\i (00:00:31) FORM padedit parameters  
+\i (00:00:34) FORM padedit layers  
+\i (00:01:27) FORM padedit parameters  
+\i (00:01:52) FORM padedit hole_size_x 0.5 
+\i (00:01:58) FORM padedit hole_size_x 0.2000 
+\i (00:02:02) FORM padedit hole_type Rectangle Slot 
+\i (00:02:10) FORM padedit hole_size_y 0.2000 
+\i (00:02:27) FORM padedit hole_type Circle Drill 
+\i (00:02:30) FORM padedit hole_size_x 0 
+\i (00:02:43) FORM padedit layers  
+\i (00:02:45) FORM padedit grid row begin_layer 
+\i (00:03:00) FORM padedit grid row soldermask_top 
+\i (00:03:02) FORM padedit grid row pastemask_top 
+\i (00:03:06) FORM padedit grid row soldermask_top 
+\i (00:03:16) FORM padedit grid row begin_layer 
+\i (00:03:36) FORM padedit grid row soldermask_top 
+\i (00:03:40) FORM padedit grid row pastemask_top 
+\i (00:04:08) FORM padedit grid row soldermask_top 
+\i (00:04:14) FORM padedit grid row pastemask_top 
+\i (00:04:33) pse_exit
+\t (00:04:33)     Journal end - Thu Oct 20 10:48:59 2016

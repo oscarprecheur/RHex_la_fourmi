@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : con03_TE.dra                                  )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Tue Jan 08 18:04:45 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/Latorre/Documents/Cadence/PoMAD/lib/pcb/symbols
+    Name      = con03_te.psm
+    User      = Latorre
+    Machine   = PCLATORRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

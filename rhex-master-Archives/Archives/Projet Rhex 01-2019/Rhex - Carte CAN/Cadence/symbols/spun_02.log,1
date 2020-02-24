@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : spun_02.dra                                   )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Sun Mar 18 10:29:08 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = //buis.isim.intra/publicetud$/PoMAD/lib/pcb/symbols
+    Name      = spun_02.psm
+    User      = latorre
+    Machine   = RDSENS3
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

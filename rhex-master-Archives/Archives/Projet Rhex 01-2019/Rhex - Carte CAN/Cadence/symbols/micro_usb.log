@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : micro_usb.dra                                 )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Thu Jul 26 15:20:13 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = micro_usb.psm
+    User      = Laurent
+    Machine   = DESKTOP-TFL7P8M
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

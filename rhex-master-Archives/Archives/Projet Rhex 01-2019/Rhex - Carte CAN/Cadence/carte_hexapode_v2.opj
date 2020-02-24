@@ -1,0 +1,171 @@
+(ExpressProject "Carte_Hexapode_V1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "..\cadence\stage robot hexapode\pcb_nw_software\shield_stm32f429\library1.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "..\cadence\stage robot hexapode\pcb_nw_software\shield_stm32f429\library1.olb"))
+      (File
+         "..\cadence\stage robot hexapode\pcb_nw_software\shield_stm32f429\shield_stm32f429_lib.olb"
+        (Type "Schematic Library")
+        (DisplayName
+           "..\cadence\stage robot hexapode\pcb_nw_software\shield_stm32f429\shield_stm32f429_lib.olb")))
+    (NoModify)
+    (File ".\carte_hexapode_v2.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\carte_hexapode_v2.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "M:\RHEX le chat\Projet Carte\Carte 24.10.18\CarteImprimRom.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "TRUE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    ("Allegro Netlist Input Board File"
+       "M:\RHEX le chat\Projet Carte\Carte 24.10.18\CarteImprimRom.brd")
+    (FLDSTUFF_Scope "0")
+    (FLDSTUFF_Action "0")
+    (FLDSTUFF_Report_File "m:\rhex le chat\projet carte\carte_hexapode_v2.RPT")
+    (FLDSTUFF_Update_File "m:\rhex le chat\projet carte\carte_hexapode_v2.UPD")
+    (FLDSTUFF__Uppercase_Result_Property "FALSE")
+    (FLDSTUFF_Uppercase_Update_Property "FALSE")
+    (FLDSTUFF_Uppercase_Unconditionally "FALSE")
+    (FLDSTUFF_Visibility "0")
+    (FLDSTUFF_inst_or_occurrence "0")
+    (FLDSTUFF_Create_Report_File "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (CON5
+      (FullPartName "CON5.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (Trou_Drivers
+      (FullPartName "Trou_Drivers.Normal")
+      (LibraryName
+         "M:\PAUL MOULINS\STAGE\STAGE ROBOT HEXAPODE\PCB_NW_SOFTWARE\SHIELD_STM32F429\SHIELD_STM32F429_LIB.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON1
+      (FullPartName "CON1.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RJ-45
+      (FullPartName "RJ-45.Normal")
+      (LibraryName
+         "M:\PAUL MOULINS\STAGE\STAGE ROBOT HEXAPODE\PCB_NW_SOFTWARE\SHIELD_STM32F429\SHIELD_STM32F429_LIB.OLB")
+      (DeviceIndex "0"))
+    (Conv_TEL_3-2411
+      (FullPartName "Conv_TEL_3-2411.Normal")
+      (LibraryName
+         "M:\PAUL MOULINS\STAGE\STAGE ROBOT HEXAPODE\PCB_NW_SOFTWARE\SHIELD_STM32F429\SHIELD_STM32F429_LIB.OLB")
+      (DeviceIndex "0"))
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "m:\rhex le chat\projet carte\carte_hexapode_v2.dsn")
+      (Path "Design Resources"
+         "m:\rhex le chat\projet carte\carte_hexapode_v2.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "m:\rhex le chat\projet carte\carte_hexapode_v2.dsn" "SCHEMATIC1"
+         "Headers_STM"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 412"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1368 26 485")
+        (Scroll "0 275")
+        (Zoom "248")
+        (Occurrence "/"))
+      (Path "M:\RHEX LE CHAT\PROJET CARTE\CARTE_HEXAPODE_V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "CAN"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1446 104 563")
+        (Scroll "-162 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "M:\RHEX LE CHAT\PROJET CARTE\CARTE_HEXAPODE_V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Actuators_Drivers"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1472 130 589")
+        (Scroll "-162 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "M:\RHEX LE CHAT\PROJET CARTE\CARTE_HEXAPODE_V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Alim"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 156 1498 156 615")
+        (Scroll "-61 408")
+        (Zoom "174")
+        (Occurrence "/"))
+      (Path "M:\RHEX LE CHAT\PROJET CARTE\CARTE_HEXAPODE_V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Headers_STM")))
+  (MPSSessionName "romain.gard")
+  (LastUsedLibraryBrowseDirectory
+     "M:\Paul MOULINS\STAGE\Stage Robot Hexapode\PCB_Nw_Software\shield_stm32F429")
+  (ISPCBBASICLICENSE "false"))

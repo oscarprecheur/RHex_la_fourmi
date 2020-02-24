@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : pot_alpha_15.dra                              )
+(    Software Version : 16.3S027                                      )
+(    Date/Time        : Thu Mar 15 10:39:36 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = //buis.isim.intra/publicetud$/PoMAD/lib/pcb/symbols
+    Name      = pot_alpha_15.psm
+    User      = latorre
+    Machine   = RDSENS3
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

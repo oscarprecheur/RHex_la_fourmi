@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : con_04.dra                                    )
+(    Software Version : 16.6S036                                      )
+(    Date/Time        : Fri Mar 13 18:08:09 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = con_04.psm
+    User      = Laurent
+    Machine   = PCLATORRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

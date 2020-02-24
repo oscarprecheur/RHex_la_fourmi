@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sygma_meas_unit.dra                           )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Tue Jul 10 09:27:22 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = sygma_meas_unit.bsm
+    User      = Laurent
+    Machine   = DESKTOP-TFL7P8M
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

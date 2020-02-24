@@ -1,0 +1,4 @@
+core_cm4.h:1626:22:NVIC_EnableIRQ	16	static
+core_cm4.h:1698:22:NVIC_SetPriority	16	static
+Task_CAN.c:10:6:vTask_CAN1	16	static
+Task_CAN.c:82:6:vTask_CAN2	16	static

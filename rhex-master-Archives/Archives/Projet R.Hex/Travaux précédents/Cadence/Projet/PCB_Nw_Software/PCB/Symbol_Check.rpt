@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : CarteV2.brd                                   )
+(    Software Version : 17.2S014                                      )
+(    Date/Time        : Fri Jun 16 16:56:15 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	C:/Cadence/SPB_17.2/share/local/pcb/symbols
+	C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols
+	C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols
+	M:/Paul
+	MOULINS/STAGE/Cadence/PCB_Nw_Software/My_symbols/
+
+
+All Symbols Found
+
+Total symbols placed:      20 out of 21
+
+
+Symbol Found:  J21	- M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/My_symbols/connecteur_5.psm

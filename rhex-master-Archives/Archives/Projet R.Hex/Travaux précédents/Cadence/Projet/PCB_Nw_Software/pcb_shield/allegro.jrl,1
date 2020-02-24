@@ -1,0 +1,13 @@
+\t (00:00:46) allegro 17.2 S014 Windows SPB 64-bit Edition
+\t (00:00:46)     Journal start - Fri Jun 16 10:24:44 2017
+\t (00:00:46)         Host=RDS1 User=paul.moulins Pid=10516 CPUs=8
+\t (00:00:46) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:46) 
+\d (00:00:46) Design opened: M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/pcb_shield/shield_STM32F429.brd
+\i (00:00:47) generaledit 
+\i (00:00:51) open 
+\i (00:00:59) fillin "M:\Paul MOULINS\STAGE\Cadence\PCB_Nw_Software\PCB\CarteV1.brd"
+\i (00:00:59) cd "M:\Paul MOULINS\STAGE\Cadence\PCB_Nw_Software\PCB"
+\t (00:00:59) Opening existing design...
+\i (00:00:59) trapsize 7216
+\t (00:00:59)     Journal end - Fri Jun 16 10:24:57 2017

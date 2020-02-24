@@ -1,0 +1,66 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : sd_slot_3.dra                                 )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Tue May 08 13:04:24 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue May 08 13:04:24 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols/sd_slot_3.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols/ 
+
+PADPATH =  C:/Users/Laurent/Documents/Cadence/lib/pcb/pads/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'MOUNTING_HOLE'  pad stack refresh starting.
+
+     'MOUNTING_HOLE'  pad stack refreshed successfully.
+     
+'VIA_04'  pad stack refresh starting.
+
+     'VIA_04'  pad stack refreshed successfully.
+     
+'SMD14_27'  pad stack refresh starting.
+
+     'SMD14_27'  pad stack refreshed successfully.
+     
+'SMD40_20'  pad stack refresh starting.
+
+     'SMD40_20'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, 'SQUARE_25X30', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SQUARE2_25X27', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SQUARE_25X27', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'HOLE_2MM', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'FIX_3', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'FIX_05', in directory search path.
+
+'PAS_SD_CARD'  pad stack refresh starting.
+
+     'PAS_SD_CARD'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, 'PAD_SD', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'DEFAULT_08', in directory search path.
+
+WARNING(SPMHNI-286): Completed refreshing all pad stacks successfully. Warnings detected.

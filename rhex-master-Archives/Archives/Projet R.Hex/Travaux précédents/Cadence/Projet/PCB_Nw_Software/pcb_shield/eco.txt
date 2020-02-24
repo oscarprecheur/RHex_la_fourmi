@@ -1,0 +1,26 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  P:/semestre8/projet hexapode/PCB/pcb_shield/shield_STM32F429.brd            |
+|                                                    Fri May 19 10:14:51 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ STM32F429_J1        HEADER 5_CON_05_HEADER 5                
+ STM32F429_J2        HEADER 5_CON_05_HEADER 5                
+ STM32F429_J3        HEADER 5_CON_05_HEADER 5                
+ STM32F429_J4        HEADER 5_CON_05_HEADER 5                
+ STM32F429_J5        HEADER 5_CON_05_HEADER 5                
+ STM32F429_R1        R_RES_01_120                         
+ STM32F429_R2        R_RES_01_120                         
+ STM32F429_U2        SN69HVD232D_SN65HVD232D_SN69HVD                
+ STM32F429_U3        SN69HVD232D_SN65HVD232D_SN69HVD                
+ STM32F429_U4        NUCLEO_144_SHIELD_NUCLEO_144_SH                
+|------------------------------------------------------------------------------|
+|       Components deleted    :      10                                        |
+|                                                                              |
+|   Total ECO changes reported:      10                                        |
+|------------------------------------------------------------------------------|

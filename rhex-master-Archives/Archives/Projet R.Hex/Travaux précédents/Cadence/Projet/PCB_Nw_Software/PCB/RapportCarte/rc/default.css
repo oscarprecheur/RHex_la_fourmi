@@ -1,0 +1,130 @@
+body
+{
+    font-family:Verdana, Geneva, sans-serif;
+}
+table
+{
+    border:2px solid black;
+    width:100%;
+	border-radius:15px;
+	-moz-border-radius:15px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.7);
+	-moz-box-shadow: 0 0 10px rgba(0,0,0,0.7);
+	border-spacing: 0;
+}
+thead>tr>td
+{
+	padding:14px 14px 14px 14px;
+	border-bottom:1px solid #e0e0e0;
+
+	background-color: #ebebeb;
+	background-color: -ms-linear-gradient(top, #ebebeb,  #e0e0e0);
+	background-color: -webkit-linear-gradient(top,  #ebebeb,  #e0e0e0);
+	background-color: -moz-linear-gradient(top,  #ebebeb,  #e0e0e0);
+}
+td.pane#details tbody>tr:nth-child(even)
+{
+	background-color: rgba(0,0,0,0.03);
+}
+td.pane#details tbody>tr:nth-child(even)>td[rowspan]
+{
+	background-color: white;
+}
+td.pane#details tbody:first-child>tr:first-child>td:first-child , thead td:first-child
+{
+	border-top-left-radius:15px;
+}
+td.pane#details tbody:first-child>tr:first-child>td:last-child, thead td:last-child
+{
+	border-top-right-radius:15px;
+}
+td.pane#details tbody>tr:last-child>td:first-child 
+{
+	border-bottom-left-radius:15px;
+}
+td.pane#details tbody>tr:last-child>td:last-child 
+{
+	border-bottom-right-radius:15px;
+}
+td
+{
+    border:1px solid grey;
+	font-size:medium;
+	padding: 7px;
+}
+thead
+{
+	border:none;
+    font-weight:bold;
+    text-align:center;
+}
+thead td
+{
+	border:none;
+}
+h1,h2
+{
+    padding:0;
+    margin:0;
+    text-align:center;
+}
+thead td.takenValue
+{
+	background-color:lime;
+}
+.Conflict
+{
+	background-color:red;
+	color:yellow;
+}
+.directly-set
+{
+    font-weight:bold;
+}
+.Deleted
+{
+    background-color:#FFCF00;
+}
+.Created
+{
+    background-color:#CFFF00;
+}
+.noChange
+{
+	color:GrayText;
+}
+.dstOnlyChg
+{
+	color:#448;
+}
+.selected
+{
+	background-color:Highlight;
+	color:HighlightText;
+}
+ul.notes
+{
+    font-size:larger;
+}
+ul.notes li.Error
+{
+    list-style-image:url(img/error.gif)
+}
+ul.notes li.Warning
+{
+    list-style-image:url(img/warning.gif)
+}
+ul.notes li.Note
+{
+    list-style-image:url(img/info.gif)
+}
+/*filtering support*/
+.filtered-out
+{
+    display:none;
+}
+#filter-note-in-main-summary
+{
+    color: red;
+    font-size: x-large;
+}

@@ -1,0 +1,63 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Wed Sep 26 10:33:59 2018
+# 
+# Allegro PCB Router v17-2-50 made 2017/01/16 at 14:16:53
+# Running on: prj15, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Batch File Name: pasde.do
+# Did File Name: M:/RHEX le chat/Projet Carte/specctra.did
+# Current time = Wed Sep 26 10:34:00 2018
+# PCB M:/RHEX le chat/Projet Carte
+# Master Unit set up as: MM 100000
+# PCB Limits xlo= -4.3180 ylo= -6.3500 xhi= 90.6780 yhi=133.3500
+# Total 11 Images Consolidated.
+# Via TROU z=1, 2 xlo= -0.9001 ylo= -0.9001 xhi=  0.9001 yhi=  0.9001
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   TROU 
+# BOTTOM   TROU   ------
+# 
+# <<WARNING:>> Potential non fixed positive shape alignment with the host CAD system exists.
+#              Allegro PCB Router does not perform any operations to remove or identify slivers and isolations.
+#              If the host CAD system performs such an operation, the user may experience unrouted
+#              or DRC alignment issues.
+#              The user must perform final unrouted/DRC validation within the host CAD system.
+# Wires Processed 85, Vias Processed 2
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 29, Images Processed 30, Padstacks Processed 5
+# Nets Processed 30, Net Terminals 114
+# PCB Area=10967.720  EIC=16  Area/EIC=685.482  SMDs=2
+# Total Pin Count: 236
+# Signal Connections Created 24
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Nets 30 Connections 83 Unroutes 24
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 7, at vias 0 Total Vias 2
+# Percent Connected   54.22
+# Manhattan Length 4127.3097 Horizontal 1727.3987 Vertical 2399.9110
+# Routed Length 1453.5973 Horizontal 557.2045 Vertical 1081.4680
+# Ratio Actual / Manhattan   0.3522
+# Unconnected Length 669.5541 Horizontal 338.6599 Vertical 330.8943
+# Total Conflicts: 73 (Cross: 0, Clear: 73, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File M:/RHEX le chat/Projet Carte\heapode_carte_V2_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <quit

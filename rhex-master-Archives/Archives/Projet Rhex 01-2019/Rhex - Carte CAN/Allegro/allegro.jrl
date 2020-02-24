@@ -1,0 +1,49 @@
+\t (00:03:37) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:03:37)     Journal start - Thu Mar 14 13:51:51 2019
+\t (00:03:37)         Host=PRJ03 User=romain.gard Pid=5832 CPUs=8
+\t (00:03:37) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:03:37) 
+\d (00:03:37) Design opened: C:/Users/romain.gard/Documents/Carte Rhex v2019/PCB/CarteImprimRom.brd
+\i (00:03:37) generaledit 
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 41.4951 92.7061
+\i (00:03:39) trapsize 5067
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 41.4951 92.7062
+\i (00:03:39) trapsize 2533
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 41.4951 92.7062
+\i (00:03:39) trapsize 1267
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 41.4951 92.7063
+\i (00:03:40) trapsize 2533
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 41.4952 92.7062
+\i (00:03:40) trapsize 5067
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 41.4952 92.7063
+\i (00:03:40) trapsize 10133
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 45.9539 77.3033
+\i (00:03:40) trapsize 5067
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 45.9540 77.3033
+\i (00:03:40) trapsize 2533
+\i (00:03:41) zoom out 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out 46.2073 77.7086
+\i (00:03:41) trapsize 5067
+\i (00:03:41) zoom out 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out 57.4555 84.9035
+\i (00:03:41) trapsize 10133
+\i (00:03:43) exit 
+\t (00:03:43)     Journal end - Thu Mar 14 13:51:57 2019

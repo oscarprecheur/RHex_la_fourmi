@@ -1,0 +1,58 @@
+\t (00:00:12) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:00:12)     Journal start - Mon Feb 25 11:17:39 2019
+\t (00:00:12)         Host=TP-AUTOM-09 User=romain.gard Pid=5124 CPUs=8
+\t (00:00:12) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:12) 
+   (00:00:12) Loading axlcore.cxt 
+\t (00:00:13) Opening existing design...
+\i (00:00:13) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged con_ufl
+\d (00:00:13) Design opened: M:/RHEX le chat/Projet Carte/symbols/con_ufl.dra
+\t (00:00:14) Grids are drawn 102.4000, 102.4000 apart for enhanced viewability.
+\i (00:00:14) trapsize 428
+\i (00:00:14) trapsize 448
+\i (00:00:15) trapsize 428
+\i (00:00:15) trapsize 428
+\i (00:00:16) generaledit 
+\i (00:00:19) open 
+\i (00:00:42) fillin "STM32F4_Discovery.dra"
+\t (00:00:42) Opening existing design...
+\i (00:00:43) fillin yes 
+\i (00:00:43) trapsize 3897
+\i (00:00:43) trapsize 4074
+\i (00:00:43) trapsize 3897
+\t (00:00:43) Grids are drawn 2.5400, 2.5400 apart for enhanced viewability.
+\i (00:00:43) trapsize 3897
+\d (00:00:43) Design opened: M:/RHEX le chat/Projet Carte/symbols/STM32F4_Discovery.dra
+\i (00:00:43) trapsize 5160530
+\i (00:00:43) generaledit 
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -6.4444 -12.2471
+\i (00:00:44) trapsize 7795
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -6.4443 -12.2471
+\i (00:00:44) trapsize 15589
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -6.4443 -12.2472
+\t (00:00:44) Grids are drawn 2.5400, 2.5400 apart for enhanced viewability.
+\i (00:00:44) trapsize 31179
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in -8.9386 -15.9886
+\i (00:00:45) trapsize 15589
+\i (00:00:47) open 
+\e (00:00:47) Do you want to save the changes you made to STM32F4_Discovery.dra?
+\i (00:00:49) fillin no 
+\i (00:02:37) fillin "menu_cancel"
+\i (00:02:37) generaledit 
+\i (00:02:55) new 
+\e (00:02:55) Do you want to save the changes you made to STM32F4_Discovery.dra?
+\i (00:02:56) fillin no 
+\i (00:02:59) newdrawfillin "menu_cancel"
+\i (00:02:59) generaledit 
+\i (00:05:04) exit 
+\e (00:05:04) Do you want to save the changes you made to STM32F4_Discovery.dra?
+\i (00:05:05) fillin no 
+\t (00:05:06)     Journal end - Mon Feb 25 11:22:32 2019

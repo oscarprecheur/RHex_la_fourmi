@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : CarteV5.brd                                   )
+(    Software Version : 17.2S014                                      )
+(    Date/Time        : Tue Jul 11 09:23:03 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'M:\PAUL MOULINS\STAGE\CADENCE\allegro'
+Design Directory:            'M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/PCB'
+Old design name:             'M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/PCB/CarteV5.brd'
+New design name:             'M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/PCB/CarteV5.brd'
+
+CmdLine: netrev.exe -y 1 -z -i M:\PAUL MOULINS\STAGE\CADENCE\allegro M:\Paul MOULINS\STAGE\Cadence\PCB_Nw_Software\PCB\CarteV5.brd M:\Paul MOULINS\STAGE\Cadence\PCB_Nw_Software\PCB\CarteV5.brd
+
+------ Preparing to read pst files ------
+
+Starting to read M:/PAUL MOULINS/STAGE/CADENCE/allegro/pstchip.dat 
+   Finished reading M:/PAUL MOULINS/STAGE/CADENCE/allegro/pstchip.dat (00:00:00.14)
+Starting to read M:/PAUL MOULINS/STAGE/CADENCE/allegro/pstxprt.dat 
+   Finished reading M:/PAUL MOULINS/STAGE/CADENCE/allegro/pstxprt.dat (00:00:00.01)
+Starting to read M:/PAUL MOULINS/STAGE/CADENCE/allegro/pstxnet.dat 
+   Finished reading M:/PAUL MOULINS/STAGE/CADENCE/allegro/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/spb_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/My_symbols/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/My_Pads/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jul 11 9:23:02 2017
+   DESIGN NAME : 'CARTE_HEXAPODE_V1'
+   PACKAGING ON Jan  9 2017 17:57:56
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:57
+elapsed time  0:00:01
+

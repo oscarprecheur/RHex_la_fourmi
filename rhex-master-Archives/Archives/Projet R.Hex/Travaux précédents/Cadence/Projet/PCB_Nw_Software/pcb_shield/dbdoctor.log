@@ -1,0 +1,16 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : shield_STM32F429.brd                          )
+(    Software Version : 16.6-2015S051                                 )
+(    Date/Time        : Fri May 19 10:32:58 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (1075.00 1425.00) on net 0.
+
+WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
+
+2 warnings, 0 errors detected, 0 errors could be fixed.

@@ -1,0 +1,14 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : CarteV4bis.brd                                )
+(    Software Version : 17.2S014                                      )
+(    Date/Time        : Mon Jul 10 11:24:20 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (142.2400 58.0600) on net 0.
+
+1 warnings, 0 errors detected, 0 errors could be fixed.

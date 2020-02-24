@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : pqfp44.dra                                    )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Fri Jan 04 00:17:53 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/Latorre/Documents/Cadence/PoMAD/lib/pcb/symbols
+    Name      = pqfp44.psm
+    User      = Latorre
+    Machine   = PCLATORRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

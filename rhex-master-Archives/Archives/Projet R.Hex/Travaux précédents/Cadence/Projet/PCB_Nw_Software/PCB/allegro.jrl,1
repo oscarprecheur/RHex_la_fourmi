@@ -1,0 +1,64 @@
+\t (00:00:04) allegro 17.2 S014 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Jul 25 18:59:41 2017
+\t (00:00:04)         Host=RDS1 User=albin.guipaud Pid=3432 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe M:\Paul MOULINS\STAGE\Cadence\PCB_Nw_Software\PCB\CarteV5.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:06) Design opened: M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/PCB/CarteV5.brd
+\i (00:00:06) trapsize 1416
+\i (00:00:06) trapsize 1449
+\i (00:00:06) trapsize 1799
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 50.2471 113.5271
+\i (00:00:07) trapsize 3598
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 50.2471 113.5270
+\i (00:00:07) trapsize 7197
+\i (00:00:10) roam start
+\i (00:00:10) roam y 64
+\i (00:00:10) roam y 128
+\i (00:00:10) roam y 32
+\i (00:00:10) roam x -16
+\i (00:00:10) roam y 64
+\i (00:00:10) roam y 16
+\i (00:00:11) roam y 32
+\i (00:00:11) roam y 64
+\i (00:00:12) roam end
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 35.4344 40.6669
+\t (00:00:13) Grids are drawn 1.2700, 1.2700 apart for enhanced viewability.
+\i (00:00:13) trapsize 14393
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 28.2376 72.6203
+\i (00:00:17) trapsize 7197
+\i (00:00:19) roam start
+\i (00:00:19) roam y -48
+\i (00:00:19) roam x -16
+\i (00:00:19) roam y -128
+\i (00:00:19) roam y -16
+\i (00:00:19) roam end
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 43.2068 101.8390
+\i (00:00:20) trapsize 3598
+\i (00:00:23) roam start
+\i (00:00:23) roam x -16
+\i (00:00:24) roam y -16
+\i (00:00:24) roam x -16
+\i (00:00:24) roam x -16
+\i (00:00:24) roam y -16
+\i (00:00:24) roam x -16
+\i (00:00:24) roam y -16
+\i (00:00:24) roam y -16
+\i (00:00:26) roam x -16
+\i (00:00:26) roam y -16
+\i (00:00:27) roam y -16
+\i (00:00:27) roam end
+\i (00:01:04) exit 
+\t (00:01:05)     Journal end - Tue Jul 25 19:00:42 2017

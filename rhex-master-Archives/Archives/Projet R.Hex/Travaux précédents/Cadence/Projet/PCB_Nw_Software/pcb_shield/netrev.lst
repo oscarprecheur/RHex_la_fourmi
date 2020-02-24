@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : shield_STM32F429.brd                          )
+(    Software Version : 16.6-2015S051                                 )
+(    Date/Time        : Fri May 19 10:14:50 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'P:\SEMESTRE8\PROJET HEXAPODE\PCB\PCB_SHIELD'
+Design Directory:            'P:/semestre8/projet hexapode/PCB/pcb_shield'
+Old design name:             'P:/semestre8/projet hexapode/PCB/pcb_shield/shield_STM32F429.brd'
+New design name:             'P:/semestre8/projet hexapode/PCB/pcb_shield/shield_STM32F429.brd'
+
+CmdLine: netrev.exe -y 1 -i P:\SEMESTRE8\PROJET HEXAPODE\PCB\PCB_SHIELD P:\semestre8\projet hexapode\PCB\pcb_shield\shield_STM32F429.brd P:\semestre8\projet hexapode\PCB\pcb_shield\shield_STM32F429.brd
+
+------ Preparing to read pst files ------
+
+Starting to read P:/SEMESTRE8/PROJET HEXAPODE/PCB/PCB_SHIELD/pstchip.dat 
+   Finished reading P:/SEMESTRE8/PROJET HEXAPODE/PCB/PCB_SHIELD/pstchip.dat (00:00:00.10)
+Starting to read P:/SEMESTRE8/PROJET HEXAPODE/PCB/PCB_SHIELD/pstxprt.dat 
+   Finished reading P:/SEMESTRE8/PROJET HEXAPODE/PCB/PCB_SHIELD/pstxprt.dat (00:00:00.00)
+Starting to read P:/SEMESTRE8/PROJET HEXAPODE/PCB/PCB_SHIELD/pstxnet.dat 
+   Finished reading P:/SEMESTRE8/PROJET HEXAPODE/PCB/PCB_SHIELD/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  P:/SEMESTRE8/PROJET HEXAPODE/PCB/FOOTPRINT/ 
+
+PADPATH =  P:/semestre8/projet hexapode/PCB/Footprint/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on May 19 10:14:50 2017
+   DESIGN NAME : 'SHIELD_STM32F429'
+   PACKAGING ON Jun  8 2015 17:42:25
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:05
+elapsed time  0:00:01
+

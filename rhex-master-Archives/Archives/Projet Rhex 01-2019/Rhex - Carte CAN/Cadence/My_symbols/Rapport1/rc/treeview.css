@@ -1,0 +1,203 @@
+body
+{
+	padding:0;
+	margin:0;
+	height:100%;
+}
+/* main-frame + splitter styles */
+table#main-frame
+{
+    border: none;
+	empty-cells:show;
+	width: 100%;
+	height:100%;
+	border-radius:0;
+}
+td.pane
+{
+	border: inset;
+	border-radius:0;
+}
+td.pane#treeview
+{
+	border-right: none;
+}
+td.pane#details
+{
+	border-left: none;
+}
+div.paneCont
+{
+	padding:0;
+	margin:0;
+	overflow: auto;
+}
+td.vsplitter, td.hsplitter
+{
+	border: none;
+    background-color:Grey;
+	padding:0;
+	margin:0;
+}
+td.vsplitter:hover, td.hsplitter:hover
+{
+	background-color:Highlight;
+}
+td.vsplitter
+{
+	cursor:col-resize;
+	width:3px;
+	height:100%;
+}
+td.hsplitter
+{
+	cursor:row-resize;
+	height:3px;
+	width:100%;
+}
+/***************** nonScalarDiff styles ******************************/
+.nonScalarDiff.showAll span.stats, .nonScalarDiff.showDiff span.stats, .nonScalarDiff.showStat table, .nonScalarDiff.showStat h4
+{
+	display:none;
+}
+.nonScalarDiff.showStat span.stats 
+{
+	display:inline-block;
+}
+.nonScalarDiff.showAll table, .nonScalarDiff.showDiff table
+{
+	display:table;
+}
+.nonScalarDiff.showAll h4, .nonScalarDiff.showDiff h4
+{
+	display:block;
+}
+
+.nonScalarDiff.showDiff tr.noChange.short, .nonScalarDiff.showAll tr.noChange.full
+{
+	display:table-row;
+}
+.nonScalarDiff.showAll tr.noChange.short, .nonScalarDiff.showDiff tr.noChange.full
+{
+	display:none;
+}
+
+table.viewSelector
+{
+	display:table;
+	border:none;
+	background-color:InactiveCaption;
+	width:auto;
+}
+table.viewSelector.global
+{
+	display:inline-table;
+	background-color:ActiveCaption;
+}
+.viewSelector tr
+{
+	background-color:ButtonFace;
+}
+.viewSelector td
+{
+	cursor:pointer;
+	border:outset;
+	font-size:x-small;
+}
+.showDiff .viewSelector td.D, .showAll .viewSelector td.A, .showStat .viewSelector td.S
+{
+	border:inset;
+	font-weight:bold;
+}
+.nonScalarDiff.showStat table.viewSelector
+{
+	display:inline-table;
+}
+/****************** treeview styles ******************************/
+.treeview, .treeview ul 
+{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.treeview .expanded ul
+{ display:block; }
+.treeview .collapsed ul
+{ display:none; }
+/*hitarea*/
+.expanded div.hitarea
+{
+	background-image:url(img/minus.gif)
+}
+.collapsed div.hitarea
+{
+	background-image:url(img/plus.gif)
+}
+div.hitarea 
+{
+	background-repeat: no-repeat;
+	height: 15px;
+	width: 15px;
+	float: left;
+	cursor: pointer;
+	display: inline;
+	position:relative;
+	margin-left: -13px;
+	margin-top: 2px;
+}
+div#summary-notes div.hitarea
+{
+    margin-left:5px;
+    margin-top:9px;
+}
+/*list item*/
+.treeview li 
+{ 
+	margin: 0;
+	margin-top: -6px;
+	padding: 10px 0pt 0px 16px;
+}
+
+/*text*/
+.treeItemName
+{
+	position:relative;
+	top:-3px;
+	left:-1px;
+	font-size:medium;
+	cursor: pointer; 
+}
+span.treeItemName.root
+{ left:-5px; }
+.treeItemName:hover
+{ 
+    color: Purple; 
+}
+/*summary notes*/
+div#summary-notes ul
+{
+    margin-left:30px;
+}
+div#summary-notes.collapsed ul
+{
+    display:none;
+}
+div#summary-notes.expanded ul
+{
+    display:block;
+}
+/* find support */
+.found,.found-permanent
+{
+    color:black;
+    background-color:yellow;
+}
+/* bullet in class view */
+td.markCell
+{
+    background-image:url(img/bullet_12x12.gif);
+    background-repeat:no-repeat;
+    background-position:center;
+    color:transparent;
+    border-color:black;
+}

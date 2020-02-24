@@ -1,0 +1,17 @@
+\t (00:00:07) allegro 17.2 S014 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Thu Jul 06 13:22:09 2017
+\t (00:00:07)         Host=RDS1 User=paul.moulins Pid=15072 CPUs=8
+\t (00:00:07) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe M:\Paul MOULINS\STAGE\Cadence\PCB_Nw_Software\sn65\SN65HVD232D.dra
+\t (00:00:07) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:00:12) fillin yes 
+\d (00:00:13) Design opened: M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/sn65/SN65HVD232D.dra
+\i (00:00:13) trapsize 75
+\i (00:00:13) trapsize 78
+\i (00:00:13) trapsize 156
+\i (00:00:14) shapeedit 
+\i (00:00:17) exit 
+\e (00:00:17) Do you want to save the changes you made to SN65HVD232D.dra?
+\i (00:00:19) fillin no 
+\t (00:00:20)     Journal end - Thu Jul 06 13:22:22 2017

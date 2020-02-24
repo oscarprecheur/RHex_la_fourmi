@@ -1,0 +1,24 @@
+\t (00:00:04) allegro 16.6-2015 S058 (v16-6-112EP) Windows 32
+\t (00:00:04)     Journal start - Tue May 09 18:38:46 2017
+\t (00:00:04)         Host=CAO2-02 User=quentin.massone Pid=1800 CPUs=8
+\t (00:00:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:04) 
+\t (00:00:06) Starting new design...
+\i (00:00:07) trapsize 641
+\i (00:00:07) trapsize 629
+\i (00:00:07) trapsize 643
+\i (00:00:07) trapsize 655
+\i (00:00:07) trapsize 568
+\i (00:00:08) trapsize 1057
+\i (00:00:08) shapeedit 
+\i (00:00:17) open 
+\e (00:00:17) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:19) fillin no 
+\i (00:00:50) fillin "P:\semestre8\projet hexapode\PCB\Nucleo_144_shield.dra"
+\i (00:00:50) cd "P:\semestre8\projet hexapode\PCB"
+\t (00:00:50) Opening existing design...
+\i (00:00:50) trapsize 8688
+\i (00:00:50) trapsize 8526
+\i (00:00:50) trapsize 8688
+\i (00:00:51) trapsize 8688
+\t (00:00:51)     Journal end - Tue May 09 18:39:32 2017

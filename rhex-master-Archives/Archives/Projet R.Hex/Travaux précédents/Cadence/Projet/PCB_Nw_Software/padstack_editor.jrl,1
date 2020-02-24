@@ -1,0 +1,17 @@
+\t (00:00:00) padstack_editor 17.2 S013 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Jun 12 14:45:05 2017
+\t (00:00:00)         Host=RDS4 User=paul.moulins Pid=123200 CPUs=8
+\t (00:00:00) CmdLine= padstack_editor -mpssession paul.moulins -file C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols/100r110.pad -tempout M:/Paul MOULINS/STAGE/Stage Robot Hexapode/PCB_Nw_Software/#Taaaaab29552.tmp -p M:/Paul MOULINS/STAGE/Stage Robot Hexapode/PCB_Nw_Software
+\t (00:00:00) 
+\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:12) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:18) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\t (00:00:22)     Journal end - Mon Jun 12 14:45:27 2017

@@ -1,0 +1,40 @@
+\t (00:00:05) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Tue Dec 11 18:21:16 2018
+\t (00:00:05)         Host=CAO1-10 User=romain.gard Pid=9256 CPUs=8
+\t (00:00:05) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged con_ufl
+\d (00:00:07) Design opened: M:/RHEX le chat/Projet Carte/My_symbols/con_ufl.dra
+\t (00:00:07) Grids are drawn 102.4000, 102.4000 apart for enhanced viewability.
+\i (00:00:07) trapsize 268
+\i (00:00:07) trapsize 276
+\i (00:00:07) trapsize 268
+\i (00:00:07) trapsize 268
+\i (00:00:08) generaledit 
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -2.7920 0.9018
+\i (00:00:09) trapsize 537
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -2.7920 0.9019
+\i (00:00:09) trapsize 1074
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -2.7919 0.9018
+\t (00:00:09) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:09) trapsize 2147
+\i (00:00:11) open 
+\i (00:00:23) fillin "M:\RHEX le chat\Projet Carte\Carte 24.10.18\CarteImprimRom.brd"
+\i (00:00:23) cd "M:\RHEX le chat\Projet Carte\Carte 24.10.18"
+\t (00:00:23) Opening existing design...
+\t (00:00:23) Grids are drawn 2.5400, 2.5400 apart for enhanced viewability.
+\i (00:00:23) trapsize 29657
+\i (00:00:23) trapsize 31110
+\i (00:00:24) trapsize 29657
+\t (00:00:24) Grids are drawn 40.6400, 40.6400 apart for enhanced viewability.
+\t (00:00:24) Grids are drawn 2.5400, 2.5400 apart for enhanced viewability.
+\i (00:00:24) trapsize 29657
+\t (00:00:24)     Journal end - Tue Dec 11 18:21:34 2018

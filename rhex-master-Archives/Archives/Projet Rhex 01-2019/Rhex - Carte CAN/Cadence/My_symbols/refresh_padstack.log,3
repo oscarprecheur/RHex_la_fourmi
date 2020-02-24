@@ -1,0 +1,34 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : mini_usb.dra                                  )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Mon Jul 09 15:27:48 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Jul 09 15:27:48 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols/mini_usb.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols/ 
+
+PADPATH =  C:/Users/Laurent/Documents/Cadence/lib/pcb/pads/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD5_23'  pad stack refresh starting.
+
+     'SMD5_23'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

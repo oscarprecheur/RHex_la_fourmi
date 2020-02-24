@@ -1,0 +1,531 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Wed Sep 26 10:31:59 2018
+# 
+# Allegro PCB Router v17-2-50 made 2017/01/16 at 14:16:53
+# Running on: prj15, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Batch File Name: pasde.do
+# Did File Name: M:/RHEX le chat/Projet Carte/specctra.did
+# Current time = Wed Sep 26 10:32:00 2018
+# PCB M:/RHEX le chat/Projet Carte
+# Master Unit set up as: MM 100000
+# PCB Limits xlo= -4.3180 ylo= -6.3500 xhi= 90.6780 yhi=133.3500
+# Total 11 Images Consolidated.
+# Via TROU z=1, 2 xlo= -0.9001 ylo= -0.9001 xhi=  0.9001 yhi=  0.9001
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   TROU 
+# BOTTOM   TROU   ------
+# 
+# <<WARNING:>> Potential non fixed positive shape alignment with the host CAD system exists.
+#              Allegro PCB Router does not perform any operations to remove or identify slivers and isolations.
+#              If the host CAD system performs such an operation, the user may experience unrouted
+#              or DRC alignment issues.
+#              The user must perform final unrouted/DRC validation within the host CAD system.
+# Wires Processed 85, Vias Processed 2
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 29, Images Processed 30, Padstacks Processed 5
+# Nets Processed 30, Net Terminals 114
+# PCB Area=10967.720  EIC=16  Area/EIC=685.482  SMDs=2
+# Total Pin Count: 236
+# Signal Connections Created 24
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Nets 30 Connections 83 Unroutes 24
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 7, at vias 0 Total Vias 2
+# Percent Connected   54.22
+# Manhattan Length 4127.3097 Horizontal 1727.3987 Vertical 2399.9110
+# Routed Length 1453.5973 Horizontal 557.2045 Vertical 1081.4680
+# Ratio Actual / Manhattan   0.3522
+# Unconnected Length 669.5541 Horizontal 338.6599 Vertical 330.8943
+# Total Conflicts: 73 (Cross: 0, Clear: 73, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File M:/RHEX le chat/Projet Carte\heapode_carte_V2_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <# Loading Do File C:/Users/MATTHI~1.BOU/AppData/Local/Temp/#Taaaaae01088.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 0
+grid wire 0.000100 (direction x) (offset 0.000000)
+grid wire 0.000100 (direction y) (offset 0.000000)
+grid via 0.000100 (direction x) (offset 0.000000)
+grid via 0.000100 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+route 25 1
+# Current time = Wed Sep 26 10:32:10 2018
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   TROU 
+# BOTTOM   TROU   ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# 
+# Wiring Statistics ----------------- M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Nets 30 Connections 83 Unroutes 24
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 7, at vias 0 Total Vias 2
+# Percent Connected   54.22
+# Manhattan Length 4127.3097 Horizontal 1727.3987 Vertical 2399.9110
+# Routed Length 1453.5973 Horizontal 557.2045 Vertical 1081.4680
+# Ratio Actual / Manhattan   0.3522
+# Unconnected Length 669.5541 Horizontal 338.6599 Vertical 330.8943
+# Start Route Pass 1 of 25
+# Routing 83 wires.
+# 7 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 39 (Cross: 0, Clear: 39, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 64 Successes 43 Failures 21 Vias 16
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 1 of 25
+# Start Route Pass 2 of 25
+# Routing 84 wires.
+# Total Conflicts: 26 (Cross: 1, Clear: 25, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 69 Successes 57 Failures 12 Vias 14
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.3334
+# End Pass 2 of 25
+# Start Route Pass 3 of 25
+# Routing 85 wires.
+# Total Conflicts: 29 (Cross: 1, Clear: 28, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 70 Successes 49 Failures 21 Vias 11
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction -0.1153
+# End Pass 3 of 25
+# Start Route Pass 4 of 25
+# Routing 81 wires.
+# Total Conflicts: 64 (Cross: 0, Clear: 64, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 70 Successes 58 Failures 12 Vias 8
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# Conflict Reduction -1.2068
+# End Pass 4 of 25
+# Start Route Pass 5 of 25
+# Routing 79 wires.
+# 5 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 22 (Cross: 0, Clear: 22, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 71 Successes 50 Failures 21 Vias 8
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.6563
+# End Pass 5 of 25
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Start Route Pass 6 of 25
+# Routing 17 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 8 Failures 8 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 6 of 25
+# Start Route Pass 7 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 9 Failures 7 Vias 9
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 7 of 25
+# Start Route Pass 8 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 8 Failures 8 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 8 of 25
+# Start Route Pass 9 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 9 Failures 7 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 9 of 25
+# Start Route Pass 10 of 25
+# Routing 16 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 8 Failures 8 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 10 of 25
+# Start Route Pass 11 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 10 Failures 6 Vias 9
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 11 of 25
+# Start Route Pass 12 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 7 Failures 9 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 12 of 25
+# Start Route Pass 13 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 10 Failures 6 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 13 of 25
+# Start Route Pass 14 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 7 Failures 9 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 14 of 25
+# Start Route Pass 15 of 25
+# Routing 16 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 10 Failures 6 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 15 of 25
+# Start Route Pass 16 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 10 Failures 6 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 16 of 25
+# Start Route Pass 17 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 7 Failures 9 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 17 of 25
+# Start Route Pass 18 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 10 Failures 6 Vias 9
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 18 of 25
+# Start Route Pass 19 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 7 Failures 9 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 19 of 25
+# Start Route Pass 20 of 25
+# Routing 16 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 10 Failures 6 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 20 of 25
+# Start Route Pass 21 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 10 Failures 6 Vias 9
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 21 of 25
+# Start Route Pass 22 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 7 Failures 9 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 22 of 25
+# Start Route Pass 23 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 10 Failures 6 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 23 of 25
+# Start Route Pass 24 of 25
+# Routing 16 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 7 Failures 9 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 24 of 25
+# Start Route Pass 25 of 25
+# Routing 16 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 16 Successes 10 Failures 6 Vias 9
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 25 of 25
+# Cpu Time = 0:00:08  Elapsed Time = 0:00:06
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|     0|    39|  21|   23|   16|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     1|    25|  12|   23|   14|    0|   0| 33|  0:00:00|  0:00:01|
+# Route    |  3|     1|    28|  21|   23|   11|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  4|     0|    64|  12|   23|    8|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  5|     0|    22|  21|   23|    8|    0|   0| 65|  0:00:00|  0:00:02|
+# Route    |  6|     0|    36|   8|   23|    9|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  7|     0|    36|   7|   23|    9|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    |  8|     0|    36|   8|   23|    9|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |  9|     0|    36|   7|   23|    9|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 10|     0|    36|   8|   23|    9|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 11|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 12|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 13|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 14|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 15|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 16|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 19|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 20|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 22|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 23|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 24|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:06|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:06
+# 
+# Wiring Statistics ----------------- M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Nets 30 Connections 83 Unroutes 23
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 11, at vias 3 Total Vias 9
+# Percent Connected   63.86
+# Manhattan Length 4121.2332 Horizontal 1724.9600 Vertical 2396.2732
+# Routed Length 1515.5508 Horizontal 525.9433 Vertical 1032.2655
+# Ratio Actual / Manhattan   0.3677
+# Unconnected Length 665.4822 Horizontal 333.6878 Vertical 331.7944
+clean 2
+# Current time = Wed Sep 26 10:32:16 2018
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   TROU 
+# BOTTOM   TROU   ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# 
+# Wiring Statistics ----------------- M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Nets 30 Connections 83 Unroutes 23
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 11, at vias 3 Total Vias 9
+# Percent Connected   63.86
+# Manhattan Length 4121.2332 Horizontal 1724.9600 Vertical 2396.2732
+# Routed Length 1515.5508 Horizontal 525.9433 Vertical 1032.2655
+# Ratio Actual / Manhattan   0.3677
+# Unconnected Length 665.4822 Horizontal 333.6878 Vertical 331.7944
+# Start Clean Pass 1 of 2
+# Routing 78 wires.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 71 Successes 57 Failures 14 Vias 8
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Start Clean Pass 2 of 2
+# Routing 79 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 36 (Cross: 0, Clear: 36, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 72 Successes 44 Failures 28 Vias 8
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 2 of 2
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|     0|    39|  21|   23|   16|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|     1|    25|  12|   23|   14|    0|   0| 33|  0:00:00|  0:00:01|
+# Route    |  3|     1|    28|  21|   23|   11|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    |  4|     0|    64|  12|   23|    8|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  5|     0|    22|  21|   23|    8|    0|   0| 65|  0:00:00|  0:00:02|
+# Route    |  6|     0|    36|   8|   23|    9|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  7|     0|    36|   7|   23|    9|    0|   0|  0|  0:00:01|  0:00:03|
+# Route    |  8|     0|    36|   8|   23|    9|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |  9|     0|    36|   7|   23|    9|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 10|     0|    36|   8|   23|    9|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 11|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    | 12|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 13|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 14|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 15|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 16|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 17|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    | 18|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:01|  0:00:05|
+# Route    | 19|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 20|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:05|
+# Route    | 21|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 22|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 23|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 24|     0|    36|   9|   23|    9|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 25|     0|    36|   6|   23|    9|    0|   0|  0|  0:00:00|  0:00:06|
+# Clean    | 26|     0|    36|  14|   23|    8|    0|   0|   |  0:00:01|  0:00:07|
+# Clean    | 27|     0|    36|  28|   23|    8|    0|   0|   |  0:00:00|  0:00:07|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:07
+# 
+# Wiring Statistics ----------------- M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Nets 30 Connections 83 Unroutes 23
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 11, at vias 2 Total Vias 8
+# Percent Connected   63.86
+# Manhattan Length 4113.9116 Horizontal 1723.6441 Vertical 2390.2675
+# Routed Length 1510.8931 Horizontal 526.7133 Vertical 1026.8378
+# Ratio Actual / Manhattan   0.3673
+# Unconnected Length 665.4822 Horizontal 333.6878 Vertical 331.7944
+write routes (changed_only) (reset_changed) C:/Users/MATTHI~1.BOU/AppData/Local/Temp/#Taaaaaf01088.tmp
+# <<WARNING:>> Non positive shape width (0) near the point 5948700/9398650.
+# <<WARNING:>> Non positive shape width (0) near the point 1000000/12573000.
+# Routing Written to File C:/Users/MATTHI~1.BOU/AppData/Local/Temp/#Taaaaaf01088.tmp
+# Loading Do File C:/Users/MATTHI~1.BOU/AppData/Local/Temp/#Taaaaah01088.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+# Net PA6 Selected.
+# Net 0 Selected.
+# Net CAN2TX_PB13 Selected.
+# Net PA5 Selected.
+# Net CAN2RX_PB12 Selected.
+# Net PA4 Selected.
+# Net CAN1TX_PB9 Selected.
+# Net CAN1RX_PB8 Selected.
+# Net +3V3 Selected.
+# Net CH4_PE14 Selected.
+# Net VIN_5V Selected.
+# Net PA7 Selected.
+# Net CH3_PE13 Selected.
+# Net CH1_PE9 Selected.
+# Net N37105 Selected.
+# Net CH2_PE11 Selected.
+# Net 24V_ALIM Selected.
+# Net CAN2_L Selected.
+# Net CAN1_L Selected.
+# Net CAN2_H Selected.
+# Net CAN1_H Selected.
+# All Selected Wires Unprotected.
+# All unprotected selected wires were deleted.
+# Current time = Wed Sep 26 10:32:27 2018
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Nets 30 Connections 83 Unroutes 83
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 2358.1959 Horizontal 934.7096 Vertical 1423.4863
+# Routed Length  23.4950 Horizontal  10.7950 Vertical  12.7000
+# Ratio Actual / Manhattan   0.0100
+# Unconnected Length 2358.1959 Horizontal 988.3684 Vertical 1369.8275
+# All Components Unselected.
+# All Nets Unselected.
+# Current time = Wed Sep 26 10:32:27 2018
+# Nets Processed 31, Net Terminals 242
+# Signal Connections Created 24
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0001 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# Layer BOTTOM Vert Signal Wire Grid 0.0001 with offset 0.0000, Width= 1.0160, Clearance= 0.2540
+# Total Conflicts: 73 (Cross: 0, Clear: 73, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# 
+# Wiring Statistics ----------------- M:/RHEX le chat/Projet Carte\heapode_carte_V2.dsn
+# Nets 31 Connections 83 Unroutes 24
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 7, at vias 0 Total Vias 2
+# Percent Connected   54.22
+# Manhattan Length 4127.3097 Horizontal 1727.3987 Vertical 2399.9110
+# Routed Length 1453.5973 Horizontal 557.2045 Vertical 1081.4680
+# Ratio Actual / Manhattan   0.3522
+# Unconnected Length 669.5541 Horizontal 338.6599 Vertical 330.8943
+quit

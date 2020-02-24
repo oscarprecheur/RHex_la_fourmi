@@ -1,0 +1,49 @@
+!SESSION 2020-02-24 08:20:01.760 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  M:\RHEX\rhex_maitre_Fourmis_Fourmis_Geante_Mega_Classe_Qui_Marche_Sur_6_Pates_Wallah_C_est_un_truc_de_ouf\rhex-master-Archives\Archives\Projet R.Hex\code\code_sans_freeRtos\encoder_project_vf\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86 M:\RHEX\rhex_maitre_Fourmis_Fourmis_Geante_Mega_Classe_Qui_Marche_Sur_6_Pates_Wallah_C_est_un_truc_de_ouf\rhex-master-Archives\Archives\Projet R.Hex\code\code_sans_freeRtos\encoder_project_vf\.cproject
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-02-24 08:21:20.458
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-02-24 08:21:20.521
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2020-02-24 08:21:25.942
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /C:/Atollic/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2020-02-24 08:21:25.942
+!MESSAGE Workspace: M:\RHEX\rhex_maitre_Fourmis_Fourmis_Geante_Mega_Classe_Qui_Marche_Sur_6_Pates_Wallah_C_est_un_truc_de_ouf\rhex-master-Archives\Archives\Projet R.Hex\code\code_sans_freeRtos
+
+!ENTRY org.eclipse.jface 2 0 2020-02-24 08:21:35.734
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-02-24 08:21:35.734
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55e82a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@ee9d31,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2020-02-24 08:21:57.139
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2020-02-24 08:21:57.670
+!MESSAGE Code Review is up.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-02-24 08:29:08.415
+!MESSAGE Unloading product manager

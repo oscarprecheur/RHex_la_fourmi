@@ -1,0 +1,31 @@
+Reading Layer Conversion File 
+Reading DXF file...
+done.
+WARNING: No HEADER section in the DXF file.
+       : Continuing with default parameters.
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 6
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 1714
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 2042
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 3942
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 5566
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 6194
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 6558
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 7162
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 7814
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 10602
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 12862
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 14042
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 15222
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 15850
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 16034
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 16206
+WARNING:  Unsupported curve-fit, spline, or 3D POLYLINE on line 16330
+Layer conversion file: D:/Users/Laurent/Documents/EII/Département/Pictos/MEA_l.cnv
+DXF file: D:/Users/Laurent/Documents/EII/Département/Pictos/MEA.dxf
+BRD file: D:/Users/Laurent/Documents/Cadence/lib/pcb/symbols/#Taaaaac08800.dra
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILS
+Design units: MILS
+Design precision: 4
+dxf2a complete.

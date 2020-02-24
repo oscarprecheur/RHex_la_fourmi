@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : rivet_2mm.dra                                 )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Fri Jul 19 17:14:38 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/Latorre/Documents/Cadence/PoMAD/lib/pcb/symbols
+    Name      = rivet_2mm.psm
+    User      = Latorre
+    Machine   = PCLATORRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

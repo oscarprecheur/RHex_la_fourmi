@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : bnc.dra                                       )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Fri Jul 19 18:11:12 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Users/Latorre/Documents/Cadence/PoMAD/lib/pcb/symbols
+    Name      = bnc.psm
+    User      = Latorre
+    Machine   = PCLATORRE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

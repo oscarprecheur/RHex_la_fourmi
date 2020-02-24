@@ -1,0 +1,4 @@
+
+• code_sans_freeRtos contient un code focntionnel mais n'utilise pas d'OS temps réel. 
+
+• code_cubemx contient un code généré pas cubemx. La communication CAN bloque le programme.   

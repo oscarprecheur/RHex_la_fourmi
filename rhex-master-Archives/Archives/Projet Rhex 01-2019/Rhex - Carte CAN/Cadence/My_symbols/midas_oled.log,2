@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MIDAS_OLED.dra                                )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Sun Jun 17 10:44:16 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = midas_oled.psm
+    User      = Laurent
+    Machine   = DESKTOP-TFL7P8M
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

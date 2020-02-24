@@ -1,0 +1,14 @@
+\t (00:00:02) allegro 17.2 S014 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Jun 16 10:10:50 2017
+\t (00:00:02)         Host=RDS1 User=paul.moulins Pid=10752 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe M:\Paul MOULINS\STAGE\Cadence\PCB_Nw_Software\My_symbols\connecteur_6.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: M:/Paul MOULINS/STAGE/Cadence/PCB_Nw_Software/My_symbols/connecteur_6.dra
+\i (00:00:02) trapsize 139
+\i (00:00:02) trapsize 142
+\i (00:00:02) trapsize 142
+\i (00:00:03) generaledit 
+\i (00:05:45) exit 
+\t (00:05:45)     Journal end - Fri Jun 16 10:16:33 2017

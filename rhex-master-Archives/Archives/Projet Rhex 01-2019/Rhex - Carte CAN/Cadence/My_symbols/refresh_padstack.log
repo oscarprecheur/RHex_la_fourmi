@@ -1,0 +1,42 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : MIDAS_OLED.dra                                )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Mon Jul 16 14:54:06 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Jul 16 14:54:06 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols/MIDAS_OLED.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/Laurent/Documents/Cadence/lib/pcb/symbols/ 
+
+PADPATH =  C:/Users/Laurent/Documents/Cadence/lib/pcb/pads/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD20_20'  pad stack refresh starting.
+
+     'SMD20_20'  pad stack refreshed successfully.
+     
+'SMD15_26'  pad stack refresh starting.
+
+     'SMD15_26'  pad stack refreshed successfully.
+     
+'SMD3_13'  pad stack refresh starting.
+
+     'SMD3_13'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Conv_Traco.dra                                )
+(    Software Version : 17.2S014                                      )
+(    Date/Time        : Mon Jun 12 17:05:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = M:/Paul MOULINS/STAGE/Cadence/My_symbols
+    Name      = conv_traco.psm
+    User      = paul.moulins
+    Machine   = RDS4
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

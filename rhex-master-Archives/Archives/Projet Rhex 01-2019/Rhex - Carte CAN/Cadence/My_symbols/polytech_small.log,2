@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : polytech_small.dra                            )
+(    Software Version : 16.6S036                                      )
+(    Date/Time        : Sat May 02 20:48:54 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = D:/Users/Laurent/Documents/Cadence/lib/pcb/symbols
+    Name      = polytech_small.bsm
+    User      = Laurent
+    Machine   = PCLATORRE
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+

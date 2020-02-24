@@ -1,0 +1,7 @@
+can.c:11:6:CAN1_Init	4	static
+can.c:39:6:CAN2_Init	4	static
+can.c:79:6:CAN_ConfigFilter	24	static
+can.c:130:6:CAN_Start	4	static
+can.c:150:6:CAN_TxMessage	72	static
+can.c:213:6:CAN_RxMessage	32	static
+can.c:272:10:CAN_RxFifoFillLevel	24	static

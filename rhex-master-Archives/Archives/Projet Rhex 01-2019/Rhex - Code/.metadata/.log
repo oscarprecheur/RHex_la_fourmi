@@ -1,0 +1,51 @@
+!SESSION 2020-02-18 10:14:32.072 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-02-18 10:19:56.460
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-02-18 10:19:56.470
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2020-02-18 10:19:57.080
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /C:/Atollic/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2020-02-18 10:19:57.080
+!MESSAGE Workspace: M:\RHEX\rhex_master_Fourmis\rhex-master-Archives\Archives\Projet Rhex 01-2019\Rhex - Code
+
+!ENTRY org.eclipse.jface 2 0 2020-02-18 10:19:58.640
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-02-18 10:19:58.640
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1b3f39e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1f3400c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2020-02-18 10:20:01.170
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2020-02-18 10:20:01.190
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-02-18 10:20:58.300
+!MESSAGE Indexed 'RhexLeChat' (41 sources, 127 headers) in 4,58 sec: 12 378 declarations; 53 024 references; 0 unresolved inclusions; 155 syntax errors; 54 unresolved names (0,082 %)
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-02-18 11:55:53.871
+!MESSAGE Unloading product manager

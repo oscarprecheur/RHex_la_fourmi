@@ -1,0 +1,71 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : shield_STM32F429.brd                          )
+(    Software Version : 16.6-2015S051                                 )
+(    Date/Time        : Fri May 19 10:43:52 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		3.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		NO
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			EIA
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ <b><i><font color="darkred">WARNING(SPMHMF-363)</i></b></font>: Units system is being switched when generating drill output file data.
+ <b><i><font color="darkred">WARNING(SPMHMF-368)</i></b></font>: Cannot find NC Drill tool file 'nc_tools.txt'
+ <b><i><font color="darkred">WARNING(SPMHMF-369)</i></b></font>: ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+          19.69  P        T01            0.000000     0.000000
+          31.50  P        T02            0.000000     0.000000
+          39.37  P        T03            0.000000     0.000000
+
+
+ Drill files being output to directory 'P:/SEMESTRE8/PROJET HEXAPODE/PCB/PCB_SHIELD' ...
+
+
+
+     'shield_STM32F429-1-2.drl' created for holes connecting TOP and BOTTOM
+     ----------------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.   0.5001    0.0000/  0.0000      PLATED          3
+     T02    2.   0.8001    0.0000/  0.0000      PLATED          4
+     T03    3.   1.0000    0.0000/  0.0000      PLATED        125
+
+     ---- Total holes:                                        132
+
+     ---- Total head travel:              3.18 feet (0.97 meters)
+
+</PRE>
+</BODY></HTML>

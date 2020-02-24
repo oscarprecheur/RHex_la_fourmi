@@ -1,0 +1,42 @@
+\t (00:00:35) allegro 17.2 S039 Windows SPB 64-bit Edition
+\t (00:00:35)     Journal start - Mon Feb 25 11:24:00 2019
+\t (00:00:35)         Host=TP-AUTOM-09 User=romain.gard Pid=1616 CPUs=8
+\t (00:00:35) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:35) 
+   (00:00:35) Loading axlcore.cxt 
+\t (00:00:37) Opening existing design...
+\i (00:00:37) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged con_ufl
+\d (00:00:37) Design opened: M:/RHEX le chat/Projet Carte/symbols/con_ufl.dra
+\t (00:00:37) Grids are drawn 102.4000, 102.4000 apart for enhanced viewability.
+\i (00:00:37) trapsize 428
+\i (00:00:37) trapsize 448
+\i (00:00:37) trapsize 428
+\i (00:00:37) trapsize 428
+\i (00:00:38) generaledit 
+\i (00:12:22) trapsize 1068
+\i (00:13:08) pick grid -2.4468 5.5021
+\t (00:13:08) last pick:  -2.4000 5.5000
+\i (00:15:01) open 
+\i (00:15:16) fillin "C:\Users\romain.gard\Downloads\Nouveau dossier\LQFP100.edf"
+\i (00:15:16) cd "C:\Users\romain.gard\Downloads\Nouveau dossier"
+\t (00:15:16) Opening existing design...
+\e (00:15:16) ERROR(SPMHOD-19): Padstack revision is too old to open directly, use dbdoctor to uprev it.
+\e (00:15:16) ERROR(SPMHOD-19): Padstack revision is too old to open directly, use dbdoctor to uprev it.
+\i (00:15:18) fillin confirm
+\t (00:15:18) Starting new design...
+\i (00:15:19) trapsize 3251
+\i (00:15:19) trapsize 3646
+\t (00:15:19) Grids are drawn 1600.0, 1600.0 apart for enhanced viewability.
+\i (00:15:19) trapsize 3646
+\i (00:15:21) fillin "menu_cancel"
+\i (00:15:21) generaledit 
+\i (00:17:24) open 
+\i (00:17:35) fillin "C:\Users\romain.gard\Downloads\QFP50P1600X1600X160-100N\QFP50P1600X1600X160-100N.dra"
+\i (00:17:35) cd "C:\Users\romain.gard\Downloads\QFP50P1600X1600X160-100N"
+\t (00:17:35) Opening existing design...
+\i (00:17:36) fillin yes 
+\i (00:17:36) trapsize 4267
+\i (00:17:36) trapsize 4785
+\i (00:17:36) trapsize 4267
+\i (00:17:36) trapsize 4267
+\t (00:17:36)     Journal end - Mon Feb 25 11:41:01 2019

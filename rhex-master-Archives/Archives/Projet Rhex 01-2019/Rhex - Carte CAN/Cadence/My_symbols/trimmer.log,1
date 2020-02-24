@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : trimmer.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Apr 28 11:05:42 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = Y:/PublicMEA/ERII3/pcblib/symbols
+    Name      = trimmer.psm
+    User      = latorre
+    Machine   = RDS2
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

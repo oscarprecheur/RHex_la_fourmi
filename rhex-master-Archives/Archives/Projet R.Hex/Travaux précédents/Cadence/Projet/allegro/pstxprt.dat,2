@@ -1,0 +1,260 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jul-10-2017 at 11:16:58 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CARTE_HEXAPODE_V1';
+ POST_TIME='Jan  9 2017 17:57:56';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J11 'CON2_CONNECTEUR_2_SORTIE_1':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS33786@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins33786@connector.\con2.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins33786@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'CON2_CONNECTEUR_2_SORTIE_2':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS33802@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins33802@connector.\con2.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins33802@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'CON2_CONNECTEUR_2_SORTIE_3':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS33818@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins33818@connector.\con2.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins33818@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'CON2_CONNECTEUR_2_SORTIE_4':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS33834@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins33834@connector.\con2.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins33834@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'CON2_CONNECTEUR_2_ENTREE_24V':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS33850@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins33850@connector.\con2.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins33850@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'CON6_CONNECTEUR_6_NAPPE_1':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS33614@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins33614@connector.\con6.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins33614@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J18 'CON6_CONNECTEUR_6_NAPPE_2':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS33638@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins33638@connector.\con6.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins33638@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J19 'CON6_CONNECTEUR_6_NAPPE_3':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS33662@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins33662@connector.\con6.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins33662@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J20 'CON6_CONNECTEUR_6_NAPPE_4':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS33686@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins33686@connector.\con6.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins33686@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J21 'CON5_CONNECTEUR_5_SORTIE_ALIM_5':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS46459@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins46459@connector.\con5.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins46459@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J23 'CON5_CONNECTEUR_5_LECT_INTERM_R':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS47224@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins47224@connector.\con5.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins47224@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J24 'CON6_CONNECTEUR_6_POTAR':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS56337@CONNECTOR.CON6.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins56337@connector.\con6.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins56337@connector.\con6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J25 'CON2_CONNECTEUR_2_ALIM_E5V':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS58363@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins58363@connector.\con2.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins58363@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES_01_120':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS40739@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins40739@analog.\r.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins40739@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES_01_120':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS40992@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins40992@analog.\r.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins40992@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'RJ-45_RJ45_RJ-45':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS42331@SHIELD_STM32F429_LIB.RJ-45.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins42331@shield_stm32f429_lib.\rj-45.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins42331@shield_stm32f429_lib.\rj-45.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'TROU_DRIVERS_TROU_DRIVERS_TROU_':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS56299@SHIELD_STM32F429_LIB.TROU_DRIVERS.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins56299@shield_stm32f429_lib.\trou_drivers.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins56299@shield_stm32f429_lib.\trou_drivers.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'RJ-45_RJ45_RJ-45':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS60755@SHIELD_STM32F429_LIB.RJ-45.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins60755@shield_stm32f429_lib.\rj-45.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins60755@shield_stm32f429_lib.\rj-45.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'RJ-45_RJ45_RJ-45':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS60783@SHIELD_STM32F429_LIB.RJ-45.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins60783@shield_stm32f429_lib.\rj-45.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins60783@shield_stm32f429_lib.\rj-45.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'RJ-45_RJ45_RJ-45':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS60879@SHIELD_STM32F429_LIB.RJ-45.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins60879@shield_stm32f429_lib.\rj-45.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins60879@shield_stm32f429_lib.\rj-45.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'SN69HVD232D_SN65HVD232D_SN69HVD':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS34148@SHIELD_STM32F429_LIB.SN69HVD232D.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins34148@shield_stm32f429_lib.\sn69hvd232d.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins34148@shield_stm32f429_lib.\sn69hvd232d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'SN69HVD232D_SN65HVD232D_SN69HVD':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS34230@SHIELD_STM32F429_LIB.SN69HVD232D.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins34230@shield_stm32f429_lib.\sn69hvd232d.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins34230@shield_stm32f429_lib.\sn69hvd232d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'NUCLEO_144_SHIELD_NUCLEO_144_SH':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS32246@SHIELD_STM32F429_LIB.NUCLEO_144_SHIELD.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins32246@shield_stm32f429_lib.\nucleo_144_shield.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins32246@shield_stm32f429_lib.\nucleo_144_shield.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'CONV_TEL_3-2411_CONV_TRACO_CONV':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS38716@SHIELD_STM32F429_LIB.CONV_TEL_3-2411.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins38716@shield_stm32f429_lib.\conv_tel_3-2411.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins38716@shield_stm32f429_lib.\conv_tel_3-2411.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'RJ-45_RJ45_RJ-45':;
+
+SECTION_NUMBER 1
+ '@CARTE_HEXAPODE_V1.SCHEMATIC1(SCH_1):INS42303@SHIELD_STM32F429_LIB.RJ-45.NORMAL(CHIPS)':
+ C_PATH='@carte_hexapode_v1.schematic1(sch_1):ins42303@shield_stm32f429_lib.\rj-45.normal\(chips)',
+ P_PATH='@carte_hexapode_v1.schematic1(sch_1):page1_ins42303@shield_stm32f429_lib.\rj-45.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
