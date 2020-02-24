@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+#azeazeazeaze
 #https://docs.python.org/3/library/struct.html#format-characters
 import struct
 from math import *
